@@ -37,7 +37,7 @@ The REST API will be available at http://localhost:8081/. The home page can be a
 
 Operations:
 Create:
-![employee post ](https://github.com/user-attachments/assets/c3406da7-a596-4c64-93ac-80e1db90eb5e)
+![dept add](https://github.com/user-attachments/assets/7b043e9f-8961-41ba-bbc5-656f053301e6)
 ![employee post ](https://github.com/user-attachments/assets/5c8b1200-f3f5-4e46-aba6-52540e381f0b)
 
 Read:
