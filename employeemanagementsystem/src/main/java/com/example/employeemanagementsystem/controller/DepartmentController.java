@@ -26,8 +26,9 @@ public class DepartmentController {
     }
 
     @PostMapping
-    public DepartmentDTO createDepartment(@RequestBody DepartmentDTO departmentDTO) {
-        return departmentService.createDepartment(departmentDTO);
+    public ResponseEntity<DepartmentDTO> createDepartment(@RequestBody DepartmentDTO departmentDTO) {
+        DepartmentDTO createdDepartment = departmentService.createDepartment(departmentDTO);
+        return ResponseEntity.ok(createdDepartment);
     }
 
     @PutMapping("/{id}")
@@ -41,3 +42,5 @@ public class DepartmentController {
         return departmentService.deleteDepartment(id);
     }
 }
+
+

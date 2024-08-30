@@ -4,9 +4,8 @@ import lombok.Data;
 
 @Data
 public class EmployeeDTO {
-
     private Long id;
     private String name;
     private String email;
-    private Long departmentId; // Include only necessary fields
+    private Long departmentId;  // This field represents the department ID
 }
