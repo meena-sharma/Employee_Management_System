@@ -23,10 +23,15 @@ employeemanagementsystem├── src│├── main││├── java││
 # Technologies Used:
 
 Spring Boot 3
+
 Spring Data JPA
+
 Hibernate
+
 Maven
+
 Jackson
+
 H2 Database
 
 # To Run:
