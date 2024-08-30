@@ -26,9 +26,10 @@ employeemanagementsystem├── src│├── main││├── java││
 
 # To Run:
 Clone the repository:
-
-git clone https://github.com/meena-sharma/Employee_Management_System
-cd employeemanagementsystem
+```bash
+ git clone https://github.com/meena-sharma/Employee_Management_System
+cd employeemanagementsystem 
+```
 
 Open the project in Visual Studio Code.
 
