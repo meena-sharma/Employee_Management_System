@@ -37,7 +37,7 @@ The REST API will be available at http://localhost:8081/. The home page can be a
 
 Operations:
 Create:
-![dept add](https://github.com/user-attachments/assets/3881c82b-bc29-47fb-974e-08a0a8298480)
+![employee post ](https://github.com/user-attachments/assets/c3406da7-a596-4c64-93ac-80e1db90eb5e)
 ![employee post ](https://github.com/user-attachments/assets/5c8b1200-f3f5-4e46-aba6-52540e381f0b)
 
 Read:
@@ -48,12 +48,6 @@ Delete:
 ![delete employe](https://github.com/user-attachments/assets/c002f41f-6cb6-492e-a429-959b6e7ee811)
 ![employee delete2](https://github.com/user-attachments/assets/af80ad11-b7b9-4160-a112-220d0e616edb)
 
-
-
-
-
-
-![employee post ](https://github.com/user-attachments/assets/c3406da7-a596-4c64-93ac-80e1db90eb5e)
 
 
 
