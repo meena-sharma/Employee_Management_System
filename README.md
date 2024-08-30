@@ -39,7 +39,7 @@ Use the built-in Spring Boot features to run the application directly from the I
 
 3.Access the application:
 
-The REST API will be available at ![Build Status] http://localhost:8081/. The home page can be accessed at ![Build Status] http://localhost:8081/index.html.
+The REST API will be available at ! http://localhost:8081/. The home page can be accessed at ! http://localhost:8081/index.html.
 
 # Screenshots:
 ![h2 console dept](https://github.com/user-attachments/assets/0324884d-42c4-495c-a084-4b32397fc694)
