@@ -23,11 +23,11 @@ employeemanagementsystem├── src│├── main││├── java││
 # Technologies Used:
 
 Spring Boot 3
-Spring Data JPA
-Hibernate
-Maven
-Jackson
-H2 Database
+/ Spring Data JPA
+/ Hibernate
+/ Maven
+/ Jackson
+/ H2 Database
 
 # To Run:
 Clone the repository:
