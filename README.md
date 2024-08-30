@@ -30,8 +30,9 @@ H2 Database
 
 # To Run:
 Clone the repository:
-git clone https://github.com/yourusername/library-management-system.git
-cd library-management-system
+git clone https://github.com/meena-sharma/Employee_Management_System
+cd employeemanagementsystem
+
 Open the project in Visual Studio Code.
 
 2.Run the project:
@@ -40,8 +41,6 @@ Use the built-in Spring Boot features to run the application directly from the I
 
 3.Access the application:
 
-The REST API will be available at http://localhost:8080/. The home page can be accessed at http://localhost:8080/index.html.
-# To Access the application:
 The REST API will be available at http://localhost:8081/. The home page can be accessed at http://localhost:8081/index.html.
 
 # Screenshots:
