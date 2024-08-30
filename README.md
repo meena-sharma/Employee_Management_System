@@ -3,17 +3,12 @@
 The Employee Management System is a Spring Boot-based application that facilitates the management of employee and department data. It provides functionalities for creating, reading, updating, and deleting both departments and employees, while managing their relationships efficiently.
 
 # Key Points:
-CRUD Operations: Implements Create, Read, Update, and Delete operations for departments and employees via RESTful endpoints.
-
-DTO Utilization: Uses Data Transfer Objects (DTOs) to manage data transfer between application layers.
-
-Global Exception Handling: Provides centralized error handling to manage and return consistent error responses.
-
-RESTful API Endpoints: Exposes RESTful endpoints for managing department and employee data.
-
-ORM Integration: Utilizes Spring Data JPA and Hibernate for database interactions and entity management.
-
-SQL Initialization: Sets up initial data and schema through SQL scripts to prepare the database.
+* CRUD Operations: Implements Create, Read, Update, and Delete operations for departments and employees via RESTful endpoints.
+* DTO Utilization: Uses Data Transfer Objects (DTOs) to manage data transfer between application layers.
+* Global Exception Handling: Provides centralized error handling to manage and return consistent error responses.
+* RESTful API Endpoints: Exposes RESTful endpoints for managing department and employee data.
+* ORM Integration: Utilizes Spring Data JPA and Hibernate for database interactions and entity management.
+* SQL Initialization: Sets up initial data and schema through SQL scripts to prepare the database.
 
 # Project Structure:
 employeemanagementsystem├── src│├── main││├── java│││└── com.example.employeemanagementsystem│││├── EmployeemanagementsystemApplication.java││ │├── config│   │   ││   └── JpaAuditingConfig.java│   │   │├── controller│   │   │       │   ├── DepartmentController.java│   │   │       │   └── EmployeeController.java│   │   │       ├── dto│   │   │       │   ├── DepartmentDTO.java│   │   │       │   └── EmployeeDTO.java│  │   │       ├── model│   │   │       │   ├── Department.java│   │   │       │   └── Employee.java│   │   │       ├── projection│   │   │       │   ├── DepartmentProjection.java
